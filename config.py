@@ -1,1 +1,0 @@
-DATA_PATH = "/net/store/cv/users/ybrima/MonkMode/assets/digest_article"

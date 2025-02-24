@@ -2,11 +2,6 @@
 
 A simple DICOM file viewer built with Streamlit to upload, view, and process DICOM images. This tool also allows users to generate videos from DICOM slices and download images in multiple formats.
 
-<!-- Display a video demo stored in images/demo.mp4 -->
-<video src="images/dicom_video.mp4" width="512" height="512" controls>
-  Your browser does not support the video tag.
-</video>
-
 <!-- display the giff  within a div-->
 <div style="display: flex; justify-content: center;">
   <img src="images/output.gif" alt="Video Demo" style="width: 512px; height: 512px;">
@@ -14,10 +9,10 @@ A simple DICOM file viewer built with Streamlit to upload, view, and process DIC
 
 <!-- display 4 images in a 2x2 grid -->
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="images/brain_001.jpg" alt="Image 1" style="width: 100%; height: auto;">
-  <img src="images/brain_005.jpg" alt="Image 2" style="width: 100%; height: auto;">
-  <img src="images/brain_010.jpg" alt="Image 3" style="width: 100%; height: auto;">
-  <img src="images/brain_017.jpg" alt="Image 4" style="width: 100%; height: auto;">
+  <img src="images/brain_001.jpg" alt="Image 1" style="width: 50%; height: auto;">
+  <img src="images/brain_005.jpg" alt="Image 2" style="width: 50%; height: auto;">
+  <img src="images/brain_010.jpg" alt="Image 3" style="width: 50%; height: auto;">
+  <img src="images/brain_017.jpg" alt="Image 4" style="width: 50%; height: auto;">
 </div>
 ## Features
 
