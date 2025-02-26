@@ -5,12 +5,12 @@ A simple DICOM file viewer built with Streamlit to upload, view, and process DIC
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Left column with the app preview image -->
   <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="images/app_preview.png" alt="App Demo" style="width: 80%; height: auto;">
+    <img src="images/app_preview.png" alt="App Demo" style="width: 100%; height: auto;">
   </div> 
 
   <!-- Right column with the gif image -->
   <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="images/output.gif" alt="Video Demo" style="width: 80%; height: auto;">
+    <img src="images/output.gif" alt="Video Demo" style="width: 100%; height: auto;">
   </div>
 </div>
 
