@@ -2,14 +2,15 @@
 
 A simple DICOM file viewer built with Streamlit to upload, view, and process DICOM images. This tool also allows users to generate videos from DICOM slices and download images in multiple formats.
 
-
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Left column with the app preview image -->
   <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="images/app_preview.png" alt="App Demo" style="width:45%; height:auto;">
+    <img src="images/app_preview.png" alt="App Demo" style="width: 80%; height: auto;">
   </div> 
 
+  <!-- Right column with the gif image -->
   <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="images/output.gif" alt="Video Demo" style="width:45%; height:auto;">
+    <img src="images/output.gif" alt="Video Demo" style="width: 80%; height: auto;">
   </div>
 </div>
 
