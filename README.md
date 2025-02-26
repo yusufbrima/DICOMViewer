@@ -5,10 +5,7 @@ A simple DICOM file viewer built with Streamlit to upload, view, and process DIC
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; display: flex; justify-content: center;">
-    <video width="512" height="512" controls>
-      <source src="images/streamlit-app-2025-02-26-14-02-05.webm" type="video/webm">
-      <source src="images/streamlit-app-2025-02-26-14-02-05.mp4" type="video/mp4">
-    </video>
+    <img src="images/app_preview.png" alt="App Demo" style="width: 512px; height: 512px;">
   </div> 
 
   <div style="flex: 1; display: flex; justify-content: center;">
