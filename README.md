@@ -8,10 +8,8 @@ A simple DICOM file viewer built with Streamlit to upload, view, and process DIC
     <video width="512" height="512" controls>
       <source src="images/streamlit-app-2025-02-26-14-02-05.webm" type="video/webm">
       <source src="images/streamlit-app-2025-02-26-14-02-05.mp4" type="video/mp4">
-
-      Your browser does not support the video tag.
     </video>
-  </div>
+  </div> 
 
   <div style="flex: 1; display: flex; justify-content: center;">
     <img src="images/output.gif" alt="Video Demo" style="width: 512px; height: 512px;">
