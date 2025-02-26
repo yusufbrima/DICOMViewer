@@ -2,10 +2,33 @@
 
 A simple DICOM file viewer built with Streamlit to upload, view, and process DICOM images. This tool also allows users to generate videos from DICOM slices and download images in multiple formats.
 
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <video width="512" height="512" controls>
+      <source src="images/streamlit-app-2025-02-26-14-02-05.webm" type="video/webm">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="images/output.gif" alt="Video Demo" style="width: 512px; height: 512px;">
+  </div>
+</div>
+
+
+<!-- <div style="display: flex; justify-content: center;">
+  <video width="512" height="512" controls>
+    <source src="images/streamlit-app-2025-02-26-14-02-05.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
 <!-- display the giff  within a div-->
 <div style="display: flex; justify-content: center;">
   <img src="images/output.gif" alt="Video Demo" style="width: 512px; height: 512px;">
-</div>
+</div> -->
 
 <!-- display 4 images in a 2x2 grid -->
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
